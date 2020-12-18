@@ -1,8 +1,18 @@
 # Crowdsmelling
 
 DESCRIPTION
-This dataset contains the structure, collected data and descriptive statistics of responses to 3 surveys on code smells detection and visualization aimed at validating the conclusions of [1]. These surveys were administered stepwise:
+
 This repository contains the datasets, obtained in 3 years, resulting from the Crowdsmelling methodology.
+Each folder contains the datasets of the year, for the code smells Long Method, God Class, and Feature Envy. 
 
+DATASET STRUCTURE
+  - project	name
+  - package	name
+  - class	name
+  - method name
+  - code metrics [1]
+  - code smell classification
 
-AVAILABLE FILES
+REFERENCES
+
+[1] Metrics description can be found in the study: "Fontana, F. A., Mantyla, M. V., Zanoni, M., and Marino, A. (2015), Comparing and experimenting machine learning techniques for code smell detection, Empirical Software Engineering"
