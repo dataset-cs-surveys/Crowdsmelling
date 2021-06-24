@@ -3,7 +3,7 @@
 DESCRIPTION
 
 This repository contains the datasets, obtained in 3 years, resulting from the Crowdsmelling methodology.
-Each folder contains the datasets of the year, for the code smells Long Method, God Class, and Feature Envy. 
+Each folder contains the datasets of the year, for the code smells Long Method, God Class, and Feature Envy. The file Exercise-Code smells detection (ESII 2020).pdf describes the exercise used in the validation of code smells.
 
 DATASET STRUCTURE
   - project	name
