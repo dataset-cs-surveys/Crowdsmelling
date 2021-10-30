@@ -1,0 +1,152 @@
+Long Method,,,,,Long Method,,,,,Long Method,,
+Year 2020,,,,,Year 2019,,,,,Year 2018,,
+Method,Nº Teams,% Teams,,,Method,Nº Teams,% Teams,,,Method,Nº Teams,% Teams
+"private void updateLabelLinks(Hashtable#RAW, ArrayList#RAW) throws com.jasml.compiler.GrammerException",44,100%,,,"private void updateLabelLinks(Hashtable#RAW, ArrayList#RAW) throws com.jasml.compiler.GrammerException",21,41%,,,"public void draw(java.awt.Graphics2D, org.jfree.chart.plot.XYPlot, java.awt.geom.Rectangle2D, org.jfree.chart.axis.ValueAxis, org.jfree.chart.axis.ValueAxis, int, org.jfree.chart.plot.PlotRenderingInfo) ",6,75%
+private static void delComment(char[]) throws com.jasml.compiler.ParsingException,43,98%,,,"private com.jasml.classes.Method parseMethod() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",20,39%,,,public void processOpcode(org.w3c.dom.Node) ,4,50%
+private void preprocessConstantValues() throws com.jasml.compiler.ParsingException,41,93%,,,private void preprocessConstantValues() throws com.jasml.compiler.ParsingException,20,39%,,,"private java.lang.String toString(com.jasml.classes.Attribute_Code, HashSet#RAW) ",3,38%
+private void dumpAttribute(com.jasml.classes.Attribute) throws java.io.IOException,41,93%,,,public void processOpcode(org.w3c.dom.Node) ,20,39%,,,private void readConstantPool() throws java.io.IOException,2,25%
+"private void parseClassAttributes() throws com.jasml.compiler.GrammerException, com.jasml.compiler.ParsingException",40,91%,,,private void readConstantPool() throws java.io.IOException,19,37%,,,private com.jasml.classes.Attribute_Code.Opcode[] parseOpcodes(byte[]) ,2,25%
+"private com.jasml.classes.Method parseMethod() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",40,91%,,,"private void parseClassAttributes() throws com.jasml.compiler.GrammerException, com.jasml.compiler.ParsingException",19,37%,,,public static void main(java.lang.String[]) throws java.lang.Exception,2,25%
+"private void parseMethodSignature(com.jasml.classes.Method, ArrayList#RAW) throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",38,86%,,,public static void main(java.lang.String[]) throws java.lang.Exception,18,35%,,,public static void main(java.lang.String[]) ,2,25%
+private void parseMaxStackOrLocals(com.jasml.classes.Attribute_Code) throws com.jasml.compiler.ParsingException,38,86%,,,public static java.lang.String parseViewableString(java.lang.String) ,16,31%,,,public static java.lang.String parseViewableString(java.lang.String) ,2,25%
+"private void parseMethodAttributes(com.jasml.classes.Method, ArrayList#RAW, com.jasml.compiler.SourceCodeParser.LabeledInstructions, com.jasml.classes.Attribute_Code, ArrayList#RAW) throws com.jasml.compiler.GrammerException, com.jasml.compiler.ParsingException",37,84%,,,"private int addMethodNameAndType(java.lang.String, java.lang.String, java.lang.String) ",15,29%,,,public static java.lang.String descriptorToString(java.lang.String) ,2,25%
+"private int addMethodNameAndType(java.lang.String, java.lang.String, java.lang.String) ",36,82%,,,"private java.lang.String toString(com.jasml.classes.Attribute_Code, HashSet#RAW) ",13,25%,,,public static java.lang.String methodParameterToString(java.lang.String) ,2,25%
+private void consumeDigits() ,36,82%,,,private static void delComment(char[]) throws com.jasml.compiler.ParsingException,12,24%,,,"private void parseClassAttributes() throws com.jasml.compiler.GrammerException, com.jasml.compiler.ParsingException",2,25%
+"private com.jasml.classes.Field parseField() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",36,82%,,,private void skipSpaces() ,11,22%,,,"private void updateLabelLinks(Hashtable#RAW, ArrayList#RAW) throws com.jasml.compiler.GrammerException",2,25%
+"private com.jasml.compiler.SourceCodeParser.LabeledInstructions parseMethodInstructions(com.jasml.classes.Method) throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",36,82%,,,private void consumeDigits() ,10,20%,,,public void testIsCompleteDirected() ,2,25%
+"private void parseClass() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",36,82%,,,public static java.lang.String descriptorToString(java.lang.String) ,10,20%,,,public void testIsCompleteUndirected() ,2,25%
+private void parseClassSignature() throws com.jasml.compiler.ParsingException,36,82%,,,public static java.lang.String methodParameterToString(java.lang.String) ,10,20%,,,public void testIsSimple() ,2,25%
+"private void parseFields() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",36,82%,,,"private void parseMethodSignature(com.jasml.classes.Method, ArrayList#RAW) throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",9,18%,,,public void testHasMultipleEdges() ,2,25%
+"private void parseMajorOrMinor() throws com.jasml.compiler.GrammerException, com.jasml.compiler.ParsingException",36,82%,,,private void parseMaxStackOrLocals(com.jasml.classes.Attribute_Code) throws com.jasml.compiler.ParsingException,9,18%,,,"public void draw(java.awt.Graphics2D, org.jfree.chart.plot.CategoryPlot, java.awt.geom.Rectangle2D, org.jfree.chart.axis.CategoryAxis, org.jfree.chart.axis.ValueAxis) ",2,25%
+public static void main(java.lang.String[]) throws java.lang.Exception,35,80%,,,public static void main(java.lang.String[]) ,9,18%,,,private com.jasml.classes.Attribute readAttribute(java.io.DataInputStream) throws java.io.IOException,1,13%
+private void skipSpaces() ,34,77%,,,"private static void compile(java.io.File, java.io.File) ",9,18%,,,private com.jasml.classes.Field readField(java.io.DataInputStream) throws java.io.IOException,1,13%
+"private void parseMethods() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",34,77%,,,"private com.jasml.classes.Field parseField() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",8,16%,,,private com.jasml.classes.Method readMethod(java.io.DataInputStream) throws java.io.IOException,1,13%
+private void dumpConstantPool() throws java.io.IOException,25,57%,,,private com.jasml.classes.Attribute readAttribute(java.io.DataInputStream) throws java.io.IOException,8,16%,,,public com.jasml.classes.JavaClass parseClass(java.io.File) throws java.io.IOException,1,13%
+public void dump() throws java.io.IOException,13,30%,,,private com.jasml.classes.Attribute_Code.Opcode[] parseOpcodes(byte[]) ,8,16%,,,private HashSet#RAW calculateReferences(com.jasml.classes.Method) ,1,13%
+private void readConstantPool() throws java.io.IOException,9,20%,,,private HashSet#RAW calculateReferences(com.jasml.classes.Method) ,8,16%,,,private HashSet#RAW calculateReferences(com.jasml.classes.Method),1,13%
+"private java.lang.String toString(com.jasml.classes.Attribute_Code, HashSet#RAW) ",6,14%,,,"private void parseMethodAttributes(com.jasml.classes.Method, ArrayList#RAW, com.jasml.compiler.SourceCodeParser.LabeledInstructions, NAO com.jasml.classes.Attribute_Code, ArrayList#RAW) throws com.jasml.compiler.GrammerException, com.jasml.compiler.ParsingException",8,16%,,,private com.jasml.classes.Attribute_Code.Opcode[] parseOpcodes(byte[]),1,13%
+private com.jasml.classes.Attribute_Code.Opcode[] parseOpcodes(byte[]) ,5,11%,,,"private com.jasml.compiler.SourceCodeParser.LabeledInstructions parseMethodInstructions(com.jasml.classes.Method) throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",7,14%,,,private void preprocessConstantValues() throws com.jasml.compiler.ParsingException,1,13%
+public void processOpcode(org.w3c.dom.Node) ,4,9%,,,"private void parseClass() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",7,14%,,,"private int addMethodNameAndType(java.lang.String, java.lang.String, java.lang.String) ",1,13%
+public static java.lang.String parseViewableString(java.lang.String) ,4,9%,,,private void parseClassSignature() throws com.jasml.compiler.ParsingException,7,14%,,,private void consumeDigits() ,1,13%
+private com.jasml.classes.Attribute readAttribute(java.io.DataInputStream) throws java.io.IOException,3,7%,,,"private void parseFields() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",7,14%,,,private void skipSpaces() ,1,13%
+public static void main(java.lang.String[]) ,3,7%,,,"private void parseMajorOrMinor() throws com.jasml.compiler.GrammerException, com.jasml.compiler.ParsingException",7,14%,,,private static void delComment(char[]) throws com.jasml.compiler.ParsingException,1,13%
+public static java.lang.String descriptorToString(java.lang.String) ,3,7%,,,"private void parseMethods() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",7,14%,,,"private com.jasml.classes.Method parseMethod() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",1,13%
+public static java.lang.String methodParameterToString(java.lang.String) ,3,7%,,,private void dumpAttribute(com.jasml.classes.Attribute) throws java.io.IOException,7,14%,,,"private void parseMajorOrMinor() throws com.jasml.compiler.GrammerException, com.jasml.compiler.ParsingException",1,13%
+private com.jasml.classes.Field readField(java.io.DataInputStream) throws java.io.IOException,2,5%,,,private static void processFile(java.io.File) ,7,14%,,,"private void parseMethods() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",1,13%
+private com.jasml.classes.Method readMethod(java.io.DataInputStream) throws java.io.IOException,2,5%,,,private com.jasml.classes.Method readMethod(java.io.DataInputStream) throws java.io.IOException,6,12%,,,public int hashCode() ,1,13%
+private HashSet#RAW calculateReferences(com.jasml.classes.Method) ,2,5%,,,private com.jasml.classes.Field readField(java.io.DataInputStream) throws java.io.IOException,4,8%,,,"private void dfsB(V, Set<V>, org.jgrapht.graph.DirectedAcyclicGraph.VisitedStrategy, org.jgrapht.graph.DirectedAcyclicGraph.Region) ",1,13%
+"private Attribute_InnerClasses parseInnerClasses() throws ParsingException, GrammerException",2,5%,,,private static void processDir(java.io.File) ,4,8%,,,"public V getVertexCorrespondence(V, boolean) ",1,13%
+private void consumeDigits(),1,2%,,,private void dumpConstantPool() throws java.io.IOException,3,6%,,,"public boolean add(E, V, V) ",1,13%
+private void skipSpaces(),1,2%,,,public void dump() throws java.io.IOException,3,6%,,,public void testIsTree() ,1,13%
+public int nextToken() throws ParsingException,1,2%,,,processFile(java.io.File) ,2,4%,,,public void isSplit1() ,1,13%
+"private Attribute_LocalVariableTable parseLocalVariableTable(String s, Hashtable map) throws ParsingException, GrammerException",1,2%,,,"compile(java.io.File, java.io.File) ",2,4%,,,public void testHasSelfLoops() ,1,13%
+"private LabeledInstructions parseMethodInstructions(Method method) throws ParsingException, GrammerException",1,2%,,,public com.jasml.classes.JavaClass parseClass(java.io.File) throws java.io.IOException,2,4%,,,public void testIsChordal() ,1,13%
+public int nextToken() throws ParsingException ,1,2%,,,private static void processArgs(java.lang.String[]) ,2,4%,,,public void isSplit2() ,1,13%
+15%,Classified by only 1 team,,,,readConstantPool() throws java.io.IOException,2,4%,,,public void testIsConnectedDirected() ,1,13%
+,,,,,main(java.lang.String[]) throws java.lang.Exception,2,4%,,,public void testBipartite2() ,1,13%
+,,,,,processOpcode(org.w3c.dom.Node) ,2,4%,,,public void testBipartite3() ,1,13%
+,,,,,main(java.lang.String[]) ,2,4%,,,public void testBipartite4() ,1,13%
+,,,,,parseViewableString(java.lang.String) ,2,4%,,,public void testIsConnectedUndirected() ,1,13%
+,,,,,descriptorToString(java.lang.String) ,2,4%,,,public void testIsCubic() ,1,13%
+,,,,,methodParameterToString(java.lang.String) ,2,4%,,,public void testDirectedGraphs() ,1,13%
+,,,,,private void readInterfaces() throws java.io.IOException,1,2%,,,public void testGraphDiameter() ,1,13%
+,,,,,private void readMethods() throws java.io.IOException,1,2%,,,public void testRandomBipartite() ,1,13%
+,,,,,private void readVersion() throws java.io.IOException,1,2%,,,public void removeVertex01() ,1,13%
+,,,,,"private com.jasml.compiler.SourceCodeParser.LabeledInstructions parseMethodInstructions(com.jasml.classes.Method) throws NAO com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",1,2%,,,public void removeVertex02() ,1,13%
+,,,,,"public int addMethodNameAndType(java.lang.String, java.lang.String, java.lang.String) ",1,2%,,,public void addIncomingEdges() ,1,13%
+,,,,,public com.jasml.classes.Attribute_Code.Opcode[] parseOpcodes(byte[]) ,1,2%,,,public void addOutgoingEdges() ,1,13%
+,,,,,"parseMethod() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",1,2%,,,public void removeVertex00() ,1,13%
+,,,,,preprocessConstantValues() throws com.jasml.compiler.ParsingException,1,2%,,,public void removeVertex_vertexNotFound() ,1,13%
+,,,,,"parseClassAttributes() throws com.jasml.compiler.GrammerException, com.jasml.compiler.ParsingException",1,2%,,,"public void generateGraph(Graph<V,E>, VertexFactory<V>, Map<java.lang.String,V>) ",1,13%
+,,,,,"addMethodNameAndType(java.lang.String, java.lang.String, java.lang.String) ",1,2%,,,private void breadthFirstSearch() ,1,13%
+,,,,,"updateLabelLinks(Hashtable#RAW, ArrayList#RAW) throws com.jasml.compiler.GrammerException",1,2%,,,private void push(AnnotatedFlowEdge) ,1,13%
+,,,,,consumeDigits() ,1,2%,,,"private Set<org.jgrapht.graph.DefaultWeightedEdge> findPathBetween(SimpleWeightedGraph<V,org.jgrapht.graph.DefaultWeightedEdge>, V, V) ",1,13%
+,,,,,skipSpaces() ,1,2%,,,protected void autoAdjustRange() ,1,13%
+,,,,,readAttribute(java.io.DataInputStream) throws java.io.IOException,1,2%,,,"protected void selectHorizontalAutoTickUnit(java.awt.Graphics2D, java.awt.geom.Rectangle2D, org.jfree.ui.RectangleEdge) ",1,13%
+,,,,,"parseField() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",1,2%,,,"protected List#RAW refreshTicksHorizontal(java.awt.Graphics2D, java.awt.geom.Rectangle2D, org.jfree.ui.RectangleEdge) ",1,13%
+,,,,,"parseMethodInstructions(com.jasml.classes.Method) throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",1,2%,,,"protected List#RAW refreshTicksVertical(java.awt.Graphics2D, java.awt.geom.Rectangle2D, org.jfree.ui.RectangleEdge) ",1,13%
+,,,,,"parseClass() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",1,2%,,,"public double draw(java.awt.Graphics2D, double, java.awt.geom.Rectangle2D, java.awt.geom.Rectangle2D, java.awt.geom.Rectangle2D, org.jfree.ui.RectangleEdge) ",1,13%
+,,,,,parseClassSignature() throws com.jasml.compiler.ParsingException,1,2%,,,public static org.jfree.data.KeyedValues getCumulativePercentages(org.jfree.data.KeyedValues) ,1,13%
+,,,,,"parseFields() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",1,2%,,,public void sortByKeys(org.jfree.util.SortOrder) ,1,13%
+,,,,,"parseMajorOrMinor() throws com.jasml.compiler.GrammerException, com.jasml.compiler.ParsingException",1,2%,,,public void sortByValues(org.jfree.util.SortOrder) ,1,13%
+,,,,,"parseMethodSignature(com.jasml.classes.Method, ArrayList#RAW) throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",1,2%,,,"protected void add(org.jfree.data.ComparableObjectItem, boolean) ",1,13%
+,,,,,"parseMethods() throws com.jasml.compiler.ParsingException, com.jasml.compiler.GrammerException",1,2%,,,public void setMaximumItemCount(int) ,1,13%
+,,,,,readField(java.io.DataInputStream) throws java.io.IOException,1,2%,,,"public void setValue(java.lang.Number, Comparable#RAW, Comparable#RAW) ",1,13%
+,,,,,readMethod(java.io.DataInputStream) throws java.io.IOException,1,2%,,,76%,Classified by only 1 team,
+,,,,,parseOpcodes(byte[]) ,1,2%,,,,,
+,,,,,calculateReferences(com.jasml.classes.Method) ,1,2%,,,,,
+,,,,,"toString(com.jasml.classes.Attribute_Code, HashSet#RAW) ",1,2%,,,,,
+,,,,,"parseMethodAttributes(com.jasml.classes.Method, ArrayList#RAW, com.jasml.compiler.SourceCodeParser.LabeledInstructions, com.jasml.classes.Attribute_Code, ArrayList#RAW) throws com.jasml.compiler.GrammerException, com.jasml.compiler.ParsingException",1,2%,,,,,
+,,,,,dumpAttribute(com.jasml.classes.Attribute) throws java.io.IOException,1,2%,,,,,
+,,,,,delComment(char[]) throws com.jasml.compiler.ParsingException,1,2%,,,,,
+,,,,,parseMaxStackOrLocals(com.jasml.classes.Attribute_Code) throws com.jasml.compiler.ParsingException,1,2%,,,,,
+,,,,,processOpcode(org.w3c.dom.Node),1,2%,,,,,
+,,,,,40%,Classified by only 1 team,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Feature Envy,,,,,Feature Envy,,,,,Feature Envy,,
+Year 2020,,,,,Year 2019,,,,,Year 2018,,
+Method,Nº Teams,% Teams,,,Method,Nº Teams,% Teams,,,Method,Nº Teams,% Teams
+com.jasml.compiler.JavaClassDumpper::dumpClassHeader():void,41,93%,,,com.jasml.decompiler.SourceCodeBuilder::toString(com.jasml.classes.Attribute_LineNumberTable):java.lang.String,33,65%,,,com.jasml.decompiler.SourceCodeBuilder::toString(com.jasml.classes.Attribute_LineNumberTable):java.lang.String,4,50%
+com.jasml.compiler.JavaClassDumpper::dumpClassInfo():void,41,93%,,,com.jasml.compiler.JavaClassDumpper::dumpClassHeader():void,32,63%,,,com.jasml.compiler.JavaClassDumpper::dumpClassHeader():void,3,38%
+com.jasml.decompiler.SourceCodeBuilder::toString(com.jasml.classes.Attribute_LineNumberTable):java.lang.String,40,91%,,,com.jasml.compiler.JavaClassDumpper::dumpClassInfo():void,29,57%,,,com.jasml.compiler.JavaClassDumpper::dumpClassInfo():void,3,38%
+com.jasml.decompiler.JavaClassParser::parseClass(File classFile):com.jasml.classes.JavaClass    com.jasml.classes.JavaClass,1,2%,,,com.jasml.compiler.ConstantPoolGenerator::getConstantPool():com.jasml.classes.ConstantPool,10,20%,,,0%,Classified by only 1 team,
+25%,Classified by only 1 team,,,,com.jasml.compiler.ConstantPoolGenerator::lookupUtf8(java.lang.String):int,10,20%,,,,,
+,,,,,com.jasml.compiler.ConstantPoolGenerator::lookupDouble(double):int,10,20%,,,,,
+,,,,,com.jasml.compiler.ConstantPoolGenerator::ensureCapacity():void,10,20%,,,,,
+,,,,,com.jasml.compiler.ConstantPoolGenerator::lookupInt(int):int,9,18%,,,,,
+,,,,,com.jasml.compiler.ConstantPoolGenerator::lookupFloat(float):int,9,18%,,,,,
+,,,,,com.jasml.compiler.ConstantPoolGenerator::lookupLong(long):int,9,18%,,,,,
+,,,,,com.jasml.decompiler.JavaClassParser::readInterfaces():void,3,6%,,,,,
+,,,,,com.jasml.helper.IntegerArray::add(int):void,2,4%,,,,,
+,,,,,com.jasml.decompiler.JavaClassParser::readVersion():void,2,4%,,,,,
+,,,,,com.jasml.decompiler.JavaClassParser::readFields():void,2,4%,,,,,
+,,,,,"com.jasml.compiler.ConstantPoolGeneratorProduct::lookupLong(long, com.jasml.compiler.ConstantPoolGenerator):int",2,4%,,,,,
+,,,,,"com.jasml.compiler.ConstantPoolGeneratorData::addDouble(com.jasml.compiler.ConstantPoolGenerator, double):int",1,2%,,,,,
+,,,,,"com.jasml.compiler.ConstantPoolGeneratorData::addFloat(com.jasml.compiler.ConstantPoolGenerator, float):int",1,2%,,,,,
+,,,,,"com.jasml.compiler.ConstantPoolGeneratorData::addInteger(com.jasml.compiler.ConstantPoolGenerator, int):int",1,2%,,,,,
+,,,,,com.jasml.compiler.ConstantPoolGeneratorData::getConstantPool(com.jasml.compiler.ConstantPoolGenerator):com.jasml.classes.ConstantPool,1,2%,,,,,
+,,,,,"com.jasml.compiler.ConstantPoolGeneratorData::addClass(com.jasml.compiler.ConstantPoolGenerator, java.lang.String):int",1,2%,,,,,
+,,,,,"com.jasml.compiler.ConstantPoolGeneratorData::addFieldNameAndType(com.jasml.compiler.ConstantPoolGenerator, java.lang.String, java.lang.String):int",1,2%,,,,,
+,,,,,"com.jasml.compiler.ConstantPoolGeneratorData::addMethodNameAndType(com.jasml.compiler.ConstantPoolGenerator, java.lang.String, java.lang.String, java.lang.String):int",1,2%,,,,,
+,,,,,com.jasml.decompiler.JavaClassParser::readMethods():void,1,2%,,,,,
+,,,,,com.jasml.decompiler.JavaClassParser::readAttributes():void,1,2%,,,,,
+,,,,,com.jasml.helper.IntegerArray::getAll():int[],1,2%,,,,,
+,,,,,"com.jasml.compiler.ConstantPoolGeneratorProduct::lookupUtf8(java.lang.String, com.jasml.compiler.ConstantPoolGenerator):int",1,2%,,,,,
+,,,,,"com.jasml.compiler.ConstantPoolGeneratorProduct::lookupDouble(double, com.jasml.compiler.ConstantPoolGenerator):int",1,2%,,,,,
+,,,,,"com.jasml.compiler.ConstantPoolGeneratorProduct::lookupInt(int, com.jasml.compiler.ConstantPoolGenerator):int",1,2%,,,,,
+,,,,,"com.jasml.compiler.ConstantPoolGeneratorProduct::lookupFloat(float, com.jasml.compiler.ConstantPoolGenerator):int",1,2%,,,,,
+,,,,,com.jasml.compiler.ConstantPoolGeneratorProduct::ensureCapacity(com.jasml.compiler.ConstantPoolGenerator):void,1,2%,,,,,
+,,,,,"com.jasml.decompiler.AttributeCode::codes(java.io.DataInputStream, com.jasml.decompiler.JavaClassParser):com.jasml.classes.Attribute_Code.Opcode[]",1,2%,,,,,
+,,,,,readConstant_Pool_Count():void,1,2%,,,,,
+,,,,,readAccess_flags():void,1,2%,,,,,
+,,,,,readThis_class():void,1,2%,,,,,
+,,,,,readSuper_class():void,1,2%,,,,,
+,,,,,readMethods():void,1,2%,,,,,
+,,,,,readAttributes():void,1,2%,,,,,
+,,,,,toString(com.jasml.classes.Attribute_LineNumberTable):java.lang.String,1,2%,,,,,
+,,,,,dumpClassHeader():void,1,2%,,,,,
+,,,,,dumpClassInfo():void,1,2%,,,,,
+,,,,,63%,Classified by only 1 team,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+God Class,,,,,God Class,,,,,God Class,,
+Year 2020,,,,,Year 2019,,,,,Year 2018,,
+Class,Nº Teams,% Teams,,,Class,Nº Teams,% Teams,,,Class,Nº Teams,% Teams
+JavaClassParser,43,98%,,,IntegerArray,44,86%,,,JavaClassParser,4,50%
+ConstantPoolGenerator,43,98%,,,JavaClassParser,42,82%,,,IntegerArray,4,50%
+IntegerArray,41,93%,,,ConstantPoolGenerator,41,80%,,,ConstantPoolGenerator,3,38%
+SourceCodeParser,3,7%,,,JavaClass,1,2%,,,NamedGraphGenerator,2,25%
+Scanner,2,5%,,,SourceCodeParser,1,2%,,,FibonacciHeap,1,13%
+SourceCodeBuilder,2,5%,,,40%,Classified by only 1 team,,,,Builder,1,13%
+Util,1,2%,,,,,,,,LogarithmicAxis,1,13%
+JavaClassDumpper,1,2%,,,,,,,,SegmentedTimeline,1,13%
+25%,Classified by only 1 team,,,,,,,,,DateTickUnit,1,13%
+,,,,,,,,,,SymbolAxis,1,13%
+,,,,,,,,,,ValueAxis,1,13%
+,,,,,,,,,,JThermometer,1,13%
+,,,,,,,,,,Marker,1,13%
+,,,,,,,,,,Plot,1,13%
+,,,,,,,,,,MeterPlot,1,13%
+,,,,,,,,,,ThermometerPlot,1,13%
+,,,,,,,,,,75%,Classified by only 1 team,
